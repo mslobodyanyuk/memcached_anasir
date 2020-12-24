@@ -26,7 +26,7 @@ Deploy project:
 
 * ***Actions:***
 
-	sudo docker-compose up
+	`sudo docker-compose up`
 
 Error related with using the wrong Compose file version:
 
