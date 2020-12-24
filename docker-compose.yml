@@ -1,0 +1,7 @@
+version: '2'
+services:
+ ytcache:
+   image: memcached
+   ports:
+     - "11211:11211"
+   command: -m 64
